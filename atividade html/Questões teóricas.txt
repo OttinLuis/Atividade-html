@@ -1,0 +1,29 @@
+QUESTÃO 1: 
+Body, head e footer.
+
+QUESTÃO 2: 
+Lista ordenada, lista não ordenada e lista de definição.
+
+QUESTÃO 3:
+Não, é uma linguagem de marcação usada para marcar conteúdo de paginas web.
+
+QUESTÃO 4:
+<title>
+
+QUESTÃO 6: 
+Password e color.
+
+QUESTÃO 7:
+Algumas tags, como por exemplo “footer” que tem no 5 e no 4 não, suporte a multimídia que o 5 tem e o 4 não e entre outras diferenças.
+
+QUESTÃO 8:
+Indica que você está utilizando o documento do Html 5.
+
+QUESTÃO 9:
+Indica o nível de seção o h1 o mais alto, e o h6 o mais baixo, você percebe pelo tamanho da letra quanto mais alto for o nível a letra aumenta.
+
+QUESTÃO 10:
+No body, por ser um elemento que vai ser exibido na tela.
+
+QUESTÃO 11:
+GER e POST, o GET os dados aparecem na URL, utilizados mais em pesquisas, ja o POST ficam ocultos de forma mais segura, mais utilizados em cadastros.
